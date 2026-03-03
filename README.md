@@ -1,3 +1,3 @@
 Knowledge Base
 
-<a href="system-design/design.md">System Design</a>
+<a href="design.md">System Design</a>
