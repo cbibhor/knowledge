@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 Knowledge Base
 
-[System Design](https://github.com/cbibhor/knowledge/blob/main/system-design/design.md)
+[System Design](#system-design/design.md)
