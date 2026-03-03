@@ -1,6 +1,0 @@
-theme: jekyll-theme-minimal
-title: Knowledge
-description: Multi-page knowledge base
-header_pages:
-  - index.md
-  - system-design/design.md
