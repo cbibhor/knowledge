@@ -1,3 +1,3 @@
 Knowledge base
 
-[System design](system-design/design)
+[System design](system-design)
